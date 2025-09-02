@@ -25,7 +25,8 @@ Used for that of repairing a pre-existing model with all parts already on hand h
 | Solar Panel | used to power and charge the battery during daytime | [Amazon](https://www.amazon.com/Replacement-Waterproof-Lantern-Lanterns-Openings/dp/B0DHWSFKY7/ref=sr_1_11?crid=2JUXV6ZH8SVFM&dib=eyJ2IjoiMSJ9.Vaz6F3jjhG6Py_ZCl4IzFUaYm4JZGLIIuIW6zDADXn6LZqsnIIZfV5k4o_aFQ-TWA0cUlJrsFCW4mqB3m9fp2nNpU5mHp6KCX-zx3u4cwngmhW7Fwi4CbdO1FUOvusDonYrxQ04tvSf4yQu1jm7TDvhJ6pmXWyeCnqSpkf8deFFhcNY5nrW9g_TyQVaECYoB9Aq1yxD2o4RvljepQNpTh0UA9ja7F3ZomQaKClpMatk.GrqyxpOcCb7ZesjJQBl1EM9ygpF7Yc0smUM30qVXXDk&dib_tag=se&keywords=round%2Bsolar%2Bpanel&qid=1756832204&sprefix=round%2Bsolar%2Bpanel%2Caps%2C120&sr=8-11&th=1) |
 
 ## Wiring Diagram
-TO BE ADDED
+<img width="2480" height="1748" alt="image" src="https://github.com/user-attachments/assets/defff726-0cea-420c-b976-16218292610e" />
+
 
 ## Power Flow
 1. Solar Panel charges AA battery during day through diode
