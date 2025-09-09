@@ -27,6 +27,7 @@ Used for that of repairing a pre-existing model with all parts already on hand h
 
 ## Wiring Diagram
 <img width="2480" height="1748" alt="image" src="https://github.com/user-attachments/assets/06722d97-d936-46f0-92c2-cf095e3019eb" />
+  * Note that the battery terminals are not standard. I did this because of how the battery fits into the housing, the 6 total terminals (3x +, 3x -) can be replaced with just a battery icon.
 
 ## Power Flow
 1. Solar Panel charges AA battery during day through diode
