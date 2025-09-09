@@ -7,3 +7,19 @@
 
 
 ### Wired Layout
+Battery negative (-) $\rightarrow$ common gnd
+Battery positive (+) $\rightarrow$ IC805 (YX805) vcc
+Battery positive (+) $\rightarrow$ Inductor (100mH)
+Inductor (100mH) $\rightarrow$ 1&ohm; resistor
+1&ohm; resistor $\rightarrow$ LED (+) vcc
+IC805 (YX805) $\rightarrow$ LED (+) vcc
+IC805 (YX805) $\rightarrow$ common gnd
+LED (-) gnd $\rightarrow$ common gnd
+solar panel (+) vcc $\rightarrow$ anode 1N5819 diode
+cathode 1N5819 $\rightarrow$ IC805 (YX805) sol
+1 end of switch $\rightarrow$ IC805 (YX805) sol
+1 end of switch $\rightarrow$ common gnd
+solar panel (-) gnd $\rightarrow$ common gnd
+
+
+
